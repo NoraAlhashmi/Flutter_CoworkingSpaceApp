@@ -1,6 +1,6 @@
-# falakapp
+# Coworking Space App - Flutter
 
-A new Flutter application.
+Mobile application for managing coworking space bookings
 
 ## Getting Started
 
